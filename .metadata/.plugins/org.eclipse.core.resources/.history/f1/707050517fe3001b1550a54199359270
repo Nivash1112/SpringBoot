@@ -1,0 +1,5 @@
+package com.learn.jwtlearn.controller;
+
+public class JwtSimpleController {
+
+}
